@@ -38,7 +38,9 @@ const FooterHome = () => {
           <span>Product</span>
           <div className="ZTOSJTWMFN">
             {content1s.map((content1) => (
-              <div className="XYHWVWVJXI">{content1}</div>
+              <div key={""} className="XYHWVWVJXI">
+                {content1}
+              </div>
             ))}
           </div>
         </div>
@@ -46,7 +48,9 @@ const FooterHome = () => {
           <span>For Developers</span>
           <div className="ZTOSJTWMFN">
             {content2s.map((content2) => (
-              <div className="XYHWVWVJXI">{content2}</div>
+              <div key={""} className="XYHWVWVJXI">
+                {content2}
+              </div>
             ))}
           </div>
         </div>
@@ -54,7 +58,9 @@ const FooterHome = () => {
           <span>Resources</span>
           <div className="ZTOSJTWMFN">
             {content3s.map((content3) => (
-              <div className="XYHWVWVJXI">{content3}</div>
+              <div key={""} className="XYHWVWVJXI">
+                {content3}
+              </div>
             ))}
           </div>
         </div>
