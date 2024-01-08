@@ -1,0 +1,111 @@
+.TEXSVMMSTV {
+  max-width: 1170px;
+  width: 100%;
+  margin: 0 auto;
+  border-radius: 20px;
+  @media (max-width: 1200px) {
+    width: 90%;
+  }
+  @media (max-width: 700px) {
+  }
+  @media (max-width: 500px) {
+  }
+
+  .UFZMKPECVA {
+    margin-top: 40px;
+    padding: 44px 60px;
+    box-sizing: border-box;
+    height: 100%;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #3f56ee 10.5%, #5094fa 102.82%);
+    svg {
+      @media (max-width: 1200px) {
+        display: none;
+      }
+    }
+    .VNWYZWDISC {
+      display: flex;
+      @media (max-width: 1200px) {
+        flex-direction: column-reverse;
+        align-items: center;
+      }
+      @media (max-width: 700px) {
+      }
+      @media (max-width: 500px) {
+      }
+      .MZJNJDFDQH {
+        max-width: 75%;
+        padding: 18px 52px;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 28px;
+        color: #fff;
+        opacity: 0.7;
+        border-right: 1px solid #fff;
+        @media (max-width: 1200px) {
+          max-width: 100%;
+          border-right: unset;
+          border-top: 1px solid #fff;
+          text-align: center;
+          padding: unset;
+          font-size: 14px;
+          padding-top: 20px;
+        }
+        @media (max-width: 700px) {
+        }
+        @media (max-width: 500px) {
+          padding-top: 34px;
+        }
+      }
+      .KENJCSHWBM {
+        padding-left: 52px;
+        padding-top: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+
+        @media (max-width: 1200px) {
+          align-items: center;
+          padding-left: unset;
+          margin-bottom: 20px;
+        }
+        @media (max-width: 700px) {
+        }
+        @media (max-width: 500px) {
+        }
+        .DDWKZNOIYY {
+          border-radius: 50%;
+          background: lightgray -20.93px -5.872px / 158.515% 112.486% no-repeat;
+        }
+        .OCCZANLDYC {
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 600;
+          line-height: 28px;
+          color: #fff;
+        }
+        span {
+          font-size: 16px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: 10px;
+          color: #fff;
+        }
+      }
+    }
+  }
+  .slick-slide {
+    max-width: 1170px !important;
+    @media (max-width: 1200px) {
+    }
+    @media (max-width: 700px) {
+    }
+  }
+  ul.slick-dots {
+    bottom: -45px;
+  }
+  .slick-track {
+    max-width: 1170px !important;
+  }
+}
