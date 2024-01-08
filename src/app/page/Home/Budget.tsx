@@ -43,7 +43,7 @@ const Budget = () => {
               <div className="NFBPLJARQI">
                 <div className="YHQRPBZXCT">
                   {contents1.map((content1) => (
-                    <div className="LTNROSTJRU">
+                    <div key={""} className="LTNROSTJRU">
                       <Image src={okPurple} alt={""}></Image>
                       <span>{content1}</span>
                     </div>
@@ -67,7 +67,7 @@ const Budget = () => {
               <div className="FMFSJNLZVA">
                 <div className="SUMSVJITMF">
                   {contents2.map((content2) => (
-                    <div className="VCJGCCXFVH">
+                    <div key={""} className="VCJGCCXFVH">
                       <Image src={okPurple} alt={""}></Image>
                       <span>{content2}</span>
                     </div>
