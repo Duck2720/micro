@@ -37,7 +37,7 @@ const Budget = () => {
                   <button>Most popular</button>
                 </div>
                 <div className="FVQBABUKZI">
-                  <span>$35</span>/Per Month
+                  <p>$35</p>/Per Month
                 </div>
               </div>
               <div className="NFBPLJARQI">
@@ -69,7 +69,7 @@ const Budget = () => {
                   {contents2.map((content2) => (
                     <div key={""} className="VCJGCCXFVH">
                       <Image src={okPurple} alt={""}></Image>
-                      <span>{content2}</span>
+                      <p>{content2}</p>
                     </div>
                   ))}
                 </div>
