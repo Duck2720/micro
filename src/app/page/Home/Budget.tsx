@@ -75,6 +75,7 @@ const Budget = () => {
                 </div>
                 <div className="TMOZMQIHFN">
                   <button>Buy now</button>
+                  <button>Buy now</button>
                 </div>
               </div>
             </div>
