@@ -75,7 +75,6 @@ const Budget = () => {
                 </div>
                 <div className="TMOZMQIHFN">
                   <button>Buy now</button>
-                  <button>nguyen trung duc</button>
                 </div>
               </div>
             </div>
